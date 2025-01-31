@@ -1,0 +1,6 @@
+gTTS
+elevenlabs
+pydub
+python-dotenv
+gradio
+groq
